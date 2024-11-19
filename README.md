@@ -1,5 +1,4 @@
-# xray-fracture-detection
-AI-based bone fracture detection from X-ray images using deep learning techniques.
+
 # Bone Fracture Detection from X-ray Images
 
 This project focuses on developing a machine learning model for detecting bone fractures from X-ray images. The model is trained using a convolutional neural network (CNN) and can classify images into "Fracture" and "No Fracture."
